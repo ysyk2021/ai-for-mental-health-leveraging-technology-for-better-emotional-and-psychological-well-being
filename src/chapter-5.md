@@ -1,5 +1,3 @@
-Chapter 5: Improving Self-Care and Coping Strategies with AI
-============================================================
 
 Artificial Intelligence (AI) has the potential to revolutionize mental health management by helping individuals improve their self-care and coping strategies. In this chapter, we will explore how AI can be used to enhance self-care and coping techniques.
 

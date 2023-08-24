@@ -1,5 +1,3 @@
-Chapter 6: Streamlining Mental Health Support Services with AI
-==============================================================
 
 The integration of artificial intelligence (AI) technology in mental health support services has the potential to streamline access to resources and improve the quality of care. In this chapter, we will explore how AI can be used to enhance mental health support services.
 

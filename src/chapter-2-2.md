@@ -1,5 +1,3 @@
-Selecting the Right Tools for Your Mental Health Needs
-=====================================================================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize mental health care by providing personalized, data-driven insights and support. However, with so many tools and technologies available, it can be challenging to select the right ones for your specific mental health needs. In this chapter, we will explore key considerations for selecting tools and technologies for AI-driven mental health.
 

@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Therapy and Counseling with AI
-===================================================
 
 Artificial Intelligence (AI) has the potential to revolutionize therapy and counseling by providing new tools for tracking mood changes, analyzing data, and delivering personalized interventions. In this chapter, we will explore how AI can be used to enhance therapy and counseling.
 

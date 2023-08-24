@@ -1,5 +1,3 @@
-Predictive Analytics and Forecasting for Improved Treatment Planning
-==========================================================================================================================================
 
 Artificial Intelligence (AI) has the potential to revolutionize mental health assessment and diagnosis by providing new tools for predicting and forecasting treatment outcomes. In this chapter, we will explore how AI can be used to enhance mental health assessment and diagnosis through predictive analytics and forecasting.
 

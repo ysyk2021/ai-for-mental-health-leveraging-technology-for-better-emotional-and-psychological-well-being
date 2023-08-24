@@ -1,5 +1,3 @@
-Emerging Trends in AI for Mental Health and Wellness
-=============================================================================================================================
 
 As artificial intelligence (AI) continues to evolve, there are several emerging trends in AI for mental health and wellness. In this chapter, we will explore some of these trends and opportunities for the future of AI-enabled mental health.
 

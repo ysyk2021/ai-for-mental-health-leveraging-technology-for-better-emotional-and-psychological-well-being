@@ -1,5 +1,3 @@
-Chapter 8: Future Trends and Opportunities for AI-Enabled Mental Health
-=======================================================================
 
 As artificial intelligence (AI) continues to develop, there are endless opportunities to leverage this technology to improve mental health care. In this chapter, we will explore emerging trends in AI for mental health and wellness, as well as new opportunities that AI can unlock.
 

@@ -1,5 +1,3 @@
-Chapter 7: Managing Ethics and Bias in AI-Enabled Mental Health
-===============================================================
 
 As artificial intelligence (AI) continues to evolve, it is important to ensure that this technology is used in a way that is ethical and unbiased. In the context of mental health care, ethical considerations and bias management are particularly important. In this chapter, we will explore the importance of ethical and unbiased mental health practices when using AI-powered tools.
 

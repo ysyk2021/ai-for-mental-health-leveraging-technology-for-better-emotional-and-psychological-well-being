@@ -1,5 +1,3 @@
-Using AI for Mental Health Assessment and Diagnosis
-=========================================================================================================================
 
 Artificial Intelligence (AI) has the potential to transform mental health assessment and diagnosis by providing new tools for analyzing data and identifying patterns. In this chapter, we will explore how AI can be used to enhance mental health assessment and diagnosis.
 

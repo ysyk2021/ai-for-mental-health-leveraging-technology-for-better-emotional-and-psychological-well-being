@@ -1,5 +1,3 @@
-AI-Powered Therapy and Counseling Techniques
-=================================================================================================
 
 Artificial Intelligence (AI) has the potential to revolutionize therapy and counseling by providing new tools for delivering more effective care. In this chapter, we will explore how AI can be used to enhance therapy and counseling through AI-powered techniques.
 

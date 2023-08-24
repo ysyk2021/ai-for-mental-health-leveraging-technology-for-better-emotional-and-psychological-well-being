@@ -1,5 +1,3 @@
-Chapter 2: Tools and Technologies for AI-Driven Mental Health
-=============================================================
 
 Artificial intelligence (AI) has the potential to revolutionize mental health care by providing personalized, data-driven insights and support. There are numerous tools and technologies available that leverage AI to improve emotional and psychological well-being. In this chapter, we will provide an overview of available tools and technologies for AI-driven mental health and discuss how to select the right tools for your specific mental health needs.
 

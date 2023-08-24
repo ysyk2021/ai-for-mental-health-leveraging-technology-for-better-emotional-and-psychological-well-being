@@ -1,5 +1,3 @@
-Unlocking New Opportunities with AI
-============================================================================================================
 
 Artificial intelligence (AI) has the potential to transform mental health care by providing personalized, data-driven insights and support. In this chapter, we will explore future trends and opportunities for AI-enabled mental health care, including new technologies and emerging research.
 

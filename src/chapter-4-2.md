@@ -1,5 +1,3 @@
-Automated Mood Tracking and Analysis using AI
-==================================================================================================
 
 Artificial Intelligence (AI) has the potential to revolutionize therapy and counseling by providing new tools for tracking and analyzing mood changes. In this chapter, we will explore how AI can be used to enhance therapy and counseling through automated mood tracking and analysis.
 

@@ -1,5 +1,3 @@
-Importance of Ethical and Unbiased Mental Health Practices
-===========================================================================================================================
 
 As artificial intelligence (AI) becomes more prevalent in mental health care, it is important to consider the ethical implications and potential biases that may arise. In this chapter, we will explore the importance of managing ethics and bias in AI-enabled mental health practices.
 

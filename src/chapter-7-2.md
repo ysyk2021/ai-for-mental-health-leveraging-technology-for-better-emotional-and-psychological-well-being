@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-=========================================================================================================
 
 As artificial intelligence (AI) becomes more prevalent in mental health care, it is important to consider the potential risks and ensure compliance with ethical and legal standards. In this chapter, we will explore strategies for managing ethics and bias in AI-enabled mental health practices.
 

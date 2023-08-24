@@ -1,5 +1,3 @@
-Overview of Available Tools and Technologies
-===========================================================================================================
 
 Artificial Intelligence (AI) has the potential to transform mental health care by providing new tools and technologies for analyzing data and delivering personalized interventions. In this chapter, we will provide an overview of available tools and technologies for AI-driven mental health.
 

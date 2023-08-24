@@ -1,5 +1,3 @@
-Understanding the Role of AI in Mental Health
-==============================================================================================
 
 Artificial Intelligence (AI) has the potential to transform mental health care by providing new tools and technologies for analyzing data and delivering personalized interventions. In this chapter, we will explore the role of AI in mental health.
 

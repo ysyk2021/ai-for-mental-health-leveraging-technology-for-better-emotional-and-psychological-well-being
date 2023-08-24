@@ -1,5 +1,3 @@
-Automated Crisis Intervention and Resource Referral using AI
-============================================================================================================================
 
 Mental health support services are critical for individuals in crisis or seeking resources for mental health care. However, these services can be overwhelmed with demand, leading to long wait times and limited availability. In this chapter, we will explore how artificial intelligence (AI) can be used to streamline mental health support services through automated crisis intervention and resource referral.
 
