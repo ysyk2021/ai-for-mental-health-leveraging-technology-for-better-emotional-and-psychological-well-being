@@ -8,3 +8,7 @@ In this book, we will also explore the potential benefits and limitations of AI-
 Overall, this book aims to provide a comprehensive overview of AI-driven mental health care and support. By exploring the latest research and technologies, we hope to contribute to the growing conversation around how AI can be used to improve emotional and psychological well-being for individuals around the world.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
