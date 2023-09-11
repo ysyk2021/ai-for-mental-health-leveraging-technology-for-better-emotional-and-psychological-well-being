@@ -1,5 +1,4 @@
-Chapter: Using AI for Mental Health Assessment and Diagnosis
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
